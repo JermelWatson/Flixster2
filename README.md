@@ -23,7 +23,7 @@
 
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/JermelWatson/Flixster2/blob/5d73ff250c0ca00892ceb7e318bafe0b4e4b7420/flixster2_walkthrough.gif" width=250><br>
 
 ### Notes
 
